@@ -1,6 +1,7 @@
 # Bedwars-Buddy
 
-Bedwars Buddy is a multipurpose Bedwars utility Discord bot built using [discord.py](https://discordpy.readthedocs.io/en/stable/index.html) and the [Hypixel API](https://api.hypixel.net/). It has a multitude of features useful to avid players of the Minecraft minigame bedwars.
+Bedwars Buddy is a multipurpose Bedwars utility Discord bot built using [discord.py](https://discordpy.readthedocs.io/en/stable/index.html) and the [Hypixel API](https://api.hypixel.net/). It has a multitude of features useful to avid players of the Minecraft minigame bedwars. It's still in development and will soon be
+ready for public servers.
 
 ## Features 📑
 
