@@ -1,0 +1,4 @@
+config.py
+__pycache__/*
+shop.png
+json_calls.md
