@@ -16,7 +16,3 @@ ready for public servers.
 <p align="center">
   <img src="shop_functionality.gif" alt="animated" />
 </p>
-
-<div align="center">
-Note
- <div align="center">
