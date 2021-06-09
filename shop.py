@@ -14,6 +14,7 @@ def rescale():
         else:
             continue
 
+# Creates and saves the user's custom Bedwars shop layout
 def createShopImage(shop_data):
     position = [47,100]
     count = 1
