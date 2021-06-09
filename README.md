@@ -16,7 +16,6 @@ Bedwars Buddy is a multipurpose Bedwars utility Discord bot built using [discord
   <img src="shop_functionality.gif" alt="animated" />
 </p>
 
-
-
-#### Notes
-I'm planning on turning this concept into a webapp because I feel it'll be more robust and easier to add functionality to, but I wanted to share this bot.
+<div align="center">
+Note
+ <div align="center">
