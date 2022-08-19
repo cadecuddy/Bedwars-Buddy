@@ -16,3 +16,5 @@ ready for public servers.
 <p align="center">
   <img src="shop_functionality.gif" alt="animated" />
 </p>
+
+*By Cade Cuddy*
